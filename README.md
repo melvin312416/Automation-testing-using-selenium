@@ -75,3 +75,5 @@ Add logging for clicks and scrolls.
 Randomize actions for more human-like automation.
 
 Extend automation to include search, filtering, or cart management.
+
+
